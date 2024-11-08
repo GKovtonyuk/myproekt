@@ -108,6 +108,7 @@ namespace myproekt {
 		"Що далі станеться?",
 		"Цікаво, так?",
 		"Спробуй ще раз!"
+		"Ура"
 		};
 		String^ randomMessage = messages[random->Next(messages->Length)];
 
